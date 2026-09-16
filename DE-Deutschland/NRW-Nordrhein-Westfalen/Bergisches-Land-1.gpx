@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Kurviger" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1">
+	<metadata>
+		<name>11.09. Tour 1</name>
+		<copyright author="OpenStreetMap contributors"/>
+		<link href="https://kurviger.com">
+			<text>Kurviger.com GPX</text>
+		</link>
+		<time>2026-09-16T11:20:02.088Z</time>
+	</metadata>
+	<rte>
+		<name>11.09. Tour 1</name>
+		<extensions>
+			<trp:Trip>
+				<trp:TransportationMode>Motorcycling</trp:TransportationMode>
+			</trp:Trip>
+		</extensions>
+		<rtept lat="51.137" lon="7.19974">
+			<name>Start</name>
+			<sym>Flag, Green</sym>
+			<type>start</type>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>Adventurous</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="51.13371" lon="7.21427">
+			<name>Shaping Point 1</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.1104" lon="7.23022">
+			<name>Shaping Point 2</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.09592" lon="7.21836">
+			<name>Shaping Point 3</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.09382" lon="7.23232">
+			<name>Shaping Point 4</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.08658" lon="7.23096">
+			<name>Shaping Point 5</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.08951" lon="7.2055">
+			<name>Additional Waypoint</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.10164" lon="7.2174">
+			<name>Shaping Point 6</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.12033" lon="7.2409">
+			<name>Shaping Point 7</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.15726" lon="7.35758">
+			<name>Shaping Point 8</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.15142" lon="7.37194">
+			<name>Shaping Point 9</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.15657" lon="7.36452">
+			<name>Shaping Point 10</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.14423" lon="7.3602">
+			<name>Shaping Point 11</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.14087" lon="7.37329">
+			<name>Shaping Point 12</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.15046" lon="7.40754">
+			<name>Shaping Point 13</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.18286" lon="7.44198">
+			<name>Shaping Point 14</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.16433" lon="7.48171">
+			<name>Shaping Point 15</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.1695" lon="7.52262">
+			<name>Shaping Point 16</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.15077" lon="7.57615">
+			<name>Shaping Point 17</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.12413" lon="7.60233">
+			<name>Shaping Point 18</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.11914" lon="7.58306">
+			<name>Shaping Point 19</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.11221" lon="7.59712">
+			<name>Shaping Point 20</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.07247" lon="7.5761">
+			<name>Shaping Point 21</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.07274" lon="7.61448">
+			<name>Shaping Point 22</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.04385" lon="7.62755">
+			<name>Shaping Point 23</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.04346" lon="7.5944">
+			<name>Shaping Point 24</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.02424" lon="7.57768">
+			<name>Shaping Point 25</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.0292" lon="7.49169">
+			<name>Shaping Point 26</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.99487" lon="7.44997">
+			<name>Shaping Point 27</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.98646" lon="7.45381">
+			<name>Shaping Point 28</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.98984" lon="7.39656">
+			<name>Shaping Point 29</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.97559" lon="7.34341">
+			<name>Shaping Point 30</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.93302" lon="7.28132">
+			<name>Shaping Point 31</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.93928" lon="7.2566">
+			<name>Shaping Point 32</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.95065" lon="7.27187">
+			<name>Shaping Point 33</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.96094" lon="7.27037">
+			<name>Shaping Point 34</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="50.97998" lon="7.30992">
+			<name>Shaping Point 35</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.00678" lon="7.29354">
+			<name>Shaping Point 36</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.0122" lon="7.27652">
+			<name>Shaping Point 37</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.04408" lon="7.28561">
+			<name>Shaping Point 38</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.06095" lon="7.2472">
+			<name>Shaping Point 39</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.05563" lon="7.22047">
+			<name>Shaping Point 40</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.04173" lon="7.20724">
+			<name>Shaping Point 41</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.05912" lon="7.16387">
+			<name>Shaping Point 42</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.05426" lon="7.13544">
+			<name>Shaping Point 43</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.08152" lon="7.15675">
+			<name>Shaping Point 44</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.09279" lon="7.18727">
+			<name>Shaping Point 45</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.10591" lon="7.16273">
+			<name>Shaping Point 46</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.09669" lon="7.13684">
+			<name>Shaping Point 47</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.10521" lon="7.14607">
+			<name>Shaping Point 48</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.11284" lon="7.13962">
+			<name>Shaping Point 49</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.11584" lon="7.11039">
+			<name>Shaping Point 50</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.12187" lon="7.12214">
+			<name>Shaping Point 51</name>
+			<sym>Waypoint</sym>
+			<type>shaping</type>
+			<extensions>
+				<trp:ShapingPoint/>
+			</extensions>
+		</rtept>
+		<rtept lat="51.13438" lon="7.11859">
+			<name>Destination</name>
+			<sym>Flag, Red</sym>
+			<type>destination</type>
+			<extensions>
+				<trp:ViaPoint/>
+			</extensions>
+		</rtept>
+	</rte>
+</gpx>
